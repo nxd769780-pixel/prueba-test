@@ -1,4 +1,4 @@
-# prueba-test
+# Repositorio uno en el curso de Git
 Primer repo creado en Github
 
 ## descripción
